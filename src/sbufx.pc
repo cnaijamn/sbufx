@@ -1,0 +1,11 @@
+# pkg-config file
+
+prefix=/usr/local
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+NAME: libsbufx
+Description: sbuf external library
+Version: 0.1.0
+Libs: -L${libdir} -lsbufx -lsbuf
+Cflags: -I${includedir}
