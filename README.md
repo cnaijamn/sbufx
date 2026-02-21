@@ -4,11 +4,8 @@
 
 ## コンパイル
 
-```sh
-cd src/
-make
-```
+_TODO_
 
 ## テスト
 
-`tests/sbufx_test.c`
+_TODO_
