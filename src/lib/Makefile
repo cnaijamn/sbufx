@@ -14,7 +14,7 @@ SYSINCS=	sbufx.h
 SYSINCSDIR=	${INCLUDEDIR}/sys
 
 FILESGROUPS+=	PKGCONF
-PKGCONF=	sbufx.pc
+PKGCONF=	libsbufx.pc
 PKGCONFDIR=	${LIBDATADIR}/pkgconfig
 
 #.include <bsd.opts.mk>
